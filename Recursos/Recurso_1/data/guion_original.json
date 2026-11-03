@@ -1,0 +1,106 @@
+{
+  "origen": "Guin recurso 1.docx",
+  "historia": [
+    {
+      "heading": "Un barrio como muchos otros",
+      "original_heading": "ESCENA 1. Un barrio como muchos otros",
+      "paragraphs": [
+        "Samuel tiene 19 años y, como miles de jóvenes en Colombia, sueña con construir un mejor futuro para él y su familia.",
+        "Vive en un barrio donde las personas se conocen desde hace años, pero donde las dificultades han hecho que muchos dejen de creer que las cosas puedan cambiar.",
+        "Cada mañana, cuando sale de su casa, observa escenas que ya parecen parte del paisaje.",
+        "Un local que cerró porque el negocio no pudo sostenerse.",
+        "Un parque donde ya casi no juegan niños porque permanece descuidado.",
+        "Un adulto mayor sentado solo en una banca, esperando que alguien se detenga a conversar.",
+        "Jóvenes de su edad que abandonaron el colegio para buscar cualquier trabajo que les permitiera ayudar en casa.",
+        "Familias preocupadas porque el dinero ya no alcanza como antes.",
+        "Con el paso del tiempo, Samuel ha aprendido a convivir con esas situaciones. Ya casi nadie habla de ellas; simplemente parecen formar parte de la rutina."
+      ]
+    },
+    {
+      "heading": "La frase que todos repiten",
+      "original_heading": "ESCENA 2. La frase que todos repiten",
+      "paragraphs": [
+        "En su casa, en la tienda del barrio, en el bus o mientras conversa con sus amigos, Samuel escucha una frase que se repite una y otra vez.",
+        "—\"Aquí nada va a cambiar.\"",
+        "Algunos dicen que los problemas son demasiado grandes.",
+        "Otros creen que siempre ha sido así y siempre será igual.",
+        "Incluso quienes alguna vez intentaron hacer algo terminaron convencidos de que no valía la pena esforzarse.",
+        "Sin darse cuenta, Samuel comienza a pensar lo mismo.",
+        "Quizás las personas tienen razón.",
+        "Quizás una sola persona no puede hacer ninguna diferencia."
+      ]
+    },
+    {
+      "heading": "Algo diferente comienza a ocurrir",
+      "original_heading": "ESCENA 3. Algo diferente comienza a ocurrir",
+      "paragraphs": [
+        "Una mañana, mientras regresa a casa, Samuel observa un movimiento inusual en el parque del barrio.",
+        "Un pequeño grupo de personas está reuniéndose con algunos vecinos.",
+        "No llevan pancartas.",
+        "No hacen promesas.",
+        "No pronuncian grandes discursos.",
+        "Simplemente comienzan a escuchar.",
+        "Conversan con las familias.",
+        "Preguntan qué necesitan.",
+        "Invitan a los jóvenes a participar.",
+        "Acompañan a los adultos mayores.",
+        "Organizan actividades para recuperar los espacios comunes.",
+        "Samuel observa desde la distancia.",
+        "No entiende muy bien quiénes son, pero nota algo diferente.",
+        "Las personas empiezan a sonreír nuevamente.",
+        "Los vecinos vuelven a saludarse.",
+        "Algunos jóvenes deciden colaborar.",
+        "El parque comienza a llenarse de vida.",
+        "Todo parece empezar con acciones muy pequeñas."
+      ]
+    },
+    {
+      "heading": "Una conversación inesperada",
+      "original_heading": "ESCENA 4. Una conversación inesperada",
+      "paragraphs": [
+        "La curiosidad lleva a Samuel a acercarse.",
+        "Mientras ayuda a mover unas sillas, conversa con una de las voluntarias.",
+        "—¿Ustedes creen que esto realmente va a cambiar algo? —pregunta con sinceridad.",
+        "Ella sonríe y responde:",
+        "—Ninguna transformación ocurre de un día para otro. Pero todas comienzan cuando alguien decide dejar de esperar que otros actúen.",
+        "Samuel guarda silencio.",
+        "Nunca había pensado que el cambio pudiera comenzar con algo tan sencillo como escuchar, acompañar o servir."
+      ]
+    },
+    {
+      "heading": "La pregunta que cambia la historia",
+      "original_heading": "ESCENA 5. La pregunta que cambia la historia",
+      "paragraphs": [
+        "Esa noche, mientras recuerda todo lo ocurrido durante el día, Samuel no logra dejar de pensar en aquella respuesta.",
+        "Si unas pocas personas lograron movilizar a toda una comunidad...",
+        "Si pequeñas acciones despertaron esperanza donde antes solo había indiferencia...",
+        "Entonces surge una pregunta que cambiará la manera en que observa su realidad.",
+        "¿Puede una sola persona transformar una comunidad?",
+        "Esa será también la pregunta que te acompañará durante esta unidad.",
+        "A medida que avances descubrirás cómo esta misma inquietud inspiró la vida de una persona cuyo legado continúa transformando millones de vidas: el padre Rafael García Herreros, fundador de la Obra Minuto de Dios."
+      ]
+    }
+  ],
+  "reflexion": {
+    "heading": "Detente y reflexiona",
+    "opening": [
+      "Antes de continuar, queremos conocer tu opinión.",
+      "¿Crees que una sola persona puede transformar una comunidad?",
+      "Selecciona la opción que más se acerca a tu forma de pensar."
+    ],
+    "choices": [
+      "Sí. Toda transformación comienza cuando alguien decide actuar.",
+      "Tal vez. Una persona puede iniciar el cambio, pero necesita el apoyo de otros para lograr una transformación sostenible.",
+      "No. Los problemas sociales son demasiado grandes para que una sola persona pueda generar un cambio significativo."
+    ]
+  },
+  "retroalimentacion": {
+    "heading": "Retroalimentación",
+    "paragraphs": [
+      "No existe una única respuesta correcta.",
+      "Lo importante es que esta pregunta permanezca contigo mientras recorres la unidad.",
+      "A lo largo de este viaje conocerás cómo muchas de las transformaciones sociales más importantes no comenzaron con grandes recursos ni con miles de personas, sino con individuos que decidieron actuar cuando otros pensaban que nada podía cambiar.",
+      "Al finalizar la unidad volveremos a esta pregunta. Tal vez entonces tu respuesta sea la misma… o quizás descubras que una pequeña acción puede convertirse en el inicio de una gran transformación."
+    ]
+  }
+}
